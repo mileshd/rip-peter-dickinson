@@ -1,0 +1,899 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ynAc",
+				"ynACInCarSavings"
+			],
+			[
+				"hoursf",
+				"hoursFlySavings"
+			],
+			[
+				"lev",
+				"levFertilizerUser"
+			],
+			[
+				"radio",
+				"radioDiv"
+			],
+			[
+				"whereLive",
+				"whereLiveSavings"
+			],
+			[
+				"useT",
+				"useTransportation"
+			],
+			[
+				"useA",
+				"useAppliances"
+			],
+			[
+				"foodMeat",
+				"foodMeatUser"
+			],
+			[
+				"ynAcIn",
+				"ynACInCarUserText"
+			],
+			[
+				"foodMe",
+				"foodMeatUser"
+			],
+			[
+				"im",
+				"imgurGenerator"
+			],
+			[
+				"image",
+				"imageURLs"
+			],
+			[
+				"imgur",
+				"imgurGenerator"
+			],
+			[
+				"list",
+				"listItemsModel"
+			],
+			[
+				"milea",
+				"mileageCarUser"
+			],
+			[
+				"degWinter",
+				"degWinterSavings"
+			],
+			[
+				"percInsul",
+				"percInsulateSavings"
+			],
+			[
+				"degWin",
+				"degWinterSavings"
+			],
+			[
+				"numBe",
+				"numBedroomUser"
+			],
+			[
+				"avg",
+				"avghome"
+			],
+			[
+				"degSummer",
+				"degSummerDefault"
+			],
+			[
+				"fish",
+				"fish_picture"
+			],
+			[
+				"doNum",
+				"doNumFinishedA"
+			],
+			[
+				"numFis",
+				"numFishTop"
+			],
+			[
+				"numFish",
+				"numFishTot"
+			],
+			[
+				"num",
+				"numFishTot"
+			],
+			[
+				"che",
+				"checkDens"
+			],
+			[
+				"check",
+				"checkVol"
+			],
+			[
+				"corr",
+				"correctAnswer"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"correc",
+				"correctAns"
+			],
+			[
+				"fish_tank",
+				"fish_tank_nav"
+			],
+			[
+				"print",
+				"print_arguments"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"care",
+				"care_percentage"
+			],
+			[
+				"exp",
+				"expected_bugs"
+			],
+			[
+				"uni",
+				"universe_of_defects"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"super",
+				"super_power"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"site",
+				"site-title"
+			],
+			[
+				"nav",
+				"nav-next"
+			],
+			[
+				"degSu",
+				"degSummerUser"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"light",
+				"lightbulbs"
+			],
+			[
+				"max",
+				"maximum"
+			],
+			[
+				"min",
+				"minimum"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"us",
+				"userSchema"
+			],
+			[
+				"Class",
+				"className"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"body_f",
+				"body_font_family"
+			],
+			[
+				"body",
+				"body_font_family"
+			],
+			[
+				"truck",
+				"truck_length"
+			],
+			[
+				"link",
+				"link_color"
+			],
+			[
+				"lin",
+				"link_color"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"rgb",
+				"rgba	rgba"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"Sans",
+				"\"Lucida Sans\""
+			],
+			[
+				"Times",
+				"\"Times New Roman\""
+			],
+			[
+				"render",
+				"renderedContent"
+			],
+			[
+				"s",
+				"script	script header"
+			],
+			[
+				"if",
+				"ifel	If Else"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"snip",
+				"Snippet: siaf"
+			],
+			[
+				"http",
+				"HTTP Requester"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"create",
+				"Gist: Create Public Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"synta",
+				"Set Syntax: Scala"
+			],
+			[
+				"snippe",
+				"Snippet: $('#select DOM Element')"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"setsyntax z",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"set syntax z",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"Moch",
+				"Set Syntax: Mocha"
+			],
+			[
+				"syntax jad",
+				"Set Syntax: Jade"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sni",
+				"Snippet: Range Comprehension (exclusive)"
+			],
+			[
+				"syntax cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"snippet",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasct",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/footprint-new/css/styles.css",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/footprint-new/js/footprint-main.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/footprint-new/footprint-test.html",
+		"/Users/milesdickinson/.bashrc",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/ADBView/README.creole",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/Default/Default ().sublime-keymap",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/footprint-new/images/footprint.gif",
+		"/Users/milesdickinson/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/milesdickinson/Websites/slider/new_branch_file.txt",
+		"/Users/milesdickinson/git_example/test.html",
+		"/Users/milesdickinson/Websites/slider/app.js",
+		"/Users/milesdickinson/Websites/slider/tom.txt",
+		"/Users/milesdickinson/git_example/secondfile.txt",
+		"/Users/milesdickinson/git_example/thirdfile.txt",
+		"/Users/milesdickinson/Websites/slider/miles.txt",
+		"/Users/milesdickinson/Websites/slider/commits.txt",
+		"/Users/milesdickinson/Websites/slider/junk1.txt",
+		"/Users/milesdickinson/Websites/slider/.git/COMMIT_EDITMSG",
+		"/Users/milesdickinson/miles.txt",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/footprint-new/js/main.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/js/fish_big.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page01.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/js/diatom.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/diatoms_big.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/js/maer.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/maer.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/includes.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/maer.htm",
+		"/Users/milesdickinson/Websites/iBreak/styles/prettyPhoto",
+		"/Users/milesdickinson/Websites/iBreak/js/jquery.js",
+		"/Users/milesdickinson/Websites/iBreak/popup.js",
+		"/Users/milesdickinson/Websites/iBreak/jquery.js",
+		"/Users/milesdickinson/Websites/iBreak/manifest.json",
+		"/Users/milesdickinson/Websites/iBreak/popup.html",
+		"/Users/milesdickinson/Websites/distraction-extenstion/popup.htlm",
+		"/Users/milesdickinson/Learning/Backbone/server.js",
+		"/Users/milesdickinson/Learning/Backbone/js/backbone.js",
+		"/Users/milesdickinson/Learning/Backbone/js/underscore.js",
+		"/Users/milesdickinson/Learning/Backbone/js/jquery.js",
+		"/Users/milesdickinson/Learning/Backbone/public/js/views/vegetables.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_small.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_small.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_big.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/app_small.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_test_small.html",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_tank_small.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_tank.js",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/fish_test.html",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page02a.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page06.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page03.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page02.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page13.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page09.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page08.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page07.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page05.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page04.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page03.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page02.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page01.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page04.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page05.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page06.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page07.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page08.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/hemocy-style.css",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page09.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page10.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page12.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_hemocytometers/page11.htm",
+		"/Users/milesdickinson/Learning/C/ex1.c",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/microbio_meningitis-football-fiasco/page13.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/popn-dynamics_meningitis/page13.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/microbio_meningitis/page13.htm",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/style.css",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/functions.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/inc/template-tags.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/littlelaffs/single.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/littlelaffs/content-single.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/js/main.js",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/littlelaffs/header.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/js/jquery.js",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/inc/tweaks.php",
+		"/Users/milesdickinson/Websites/littlelaffs-test/wp-content/themes/spun/single.php",
+		"/Users/milesdickinson/Websites/susa/wp-content/themes/susa",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/menu.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/conversions_styles.css",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/environment_watersheds/page06.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page02.php",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/measurement_conversions/page01.php",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/conversions/header.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/conversions/footer.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/conversions/page01.htm",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/conversions/footer.php",
+		"/Users/milesdickinson/Documents/Websites/Math_Bench/modules/conversions/header.php",
+		"/Users/milesdickinson/Websites/rallyomelet/component.json",
+		"/Users/milesdickinson/.ssh/id_rsa.pub",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/page.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/single.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-status.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-single.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-page.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-image.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-gallery.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs/content-aside.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/spun/content.php",
+		"/Users/milesdickinson/Websites/littlelaffs/wp-content/themes/littlelaffs",
+		"/Users/milesdickinson/Websites/todoCoffee/src/TaskList.coffee",
+		"/Users/milesdickinson/Websites/todoCoffee/src/Task.coffee",
+		"/Users/milesdickinson/Websites/sas/views/guest/layout.jade",
+		"/Users/milesdickinson/Websites/sas/views/guest/company.jade",
+		"/Users/milesdickinson/Websites/sas/views/guest/student.jade",
+		"/Users/milesdickinson/Websites/sas/public/js/student.js",
+		"/Users/milesdickinson/Websites/sas/public/js/company.js",
+		"/Users/milesdickinson/Websites/sas/app.js",
+		"/Users/milesdickinson/Websites/sas/config.js",
+		"/Users/milesdickinson/Websites/sas/models/user.js",
+		"/Users/milesdickinson/Websites/sas/test/user-test.js",
+		"/Users/milesdickinson/Websites/sas/public/js/util.js",
+		"/Users/milesdickinson/Websites/sas/views/company.jade",
+		"/Users/milesdickinson/Websites/sas/public/stylesheets/styles.styl",
+		"/Users/milesdickinson/Websites/sas/routes.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/2000)",
+			" \\",
+			"\"\\n\");",
+			"th",
+			"y:",
+			"user.house.numWallsUserText",
+			"p",
+			"bigfish-trans",
+			"Fish",
+			"td",
+			"user.house.numWallsUserText",
+			"kittens",
+			"kittenGenerator",
+			"checkC",
+			"txtVol",
+			"A",
+			"a",
+			"A",
+			"mid",
+			"mid_b",
+			"mid_a",
+			"top_a",
+			"mid",
+			"check",
+			"top",
+			"d",
+			"display",
+			"Top",
+			"a",
+			"a:hover img",
+			":hover",
+			"img a:hover",
+			":hover",
+			"top",
+			"bottom",
+			"Bottom",
+			"bottom",
+			"top",
+			"Top",
+			"top",
+			"Top",
+			"top",
+			"fadeIn(500)",
+			"– ",
+			"5",
+			"</li>",
+			"</span>",
+			"<li><span>",
+			"</li>",
+			"</span>",
+			"<li><span>",
+			"s",
+			"d",
+			"numbers",
+			"catchbox_posted_on",
+			"catchbox_posted_on()",
+			"SUSA",
+			"absolute",
+			"conversions",
+			"measurement_conversions",
+			".nav-previous ",
+			".nav-next",
+			"t ",
+			"sidebar",
+			"dynamic_sidebar",
+			"sidebar",
+			"80",
+			".aligncen",
+			"6",
+			"text-align: left;\n	width: 100px;\n	float: left;",
+			"#nav-below",
+			"#nav-below ",
+			"nav",
+			"#nav-below",
+			"screen",
+			"powered",
+			"→",
+			"”",
+			"“",
+			"’",
+			"ol",
+			"php",
+			"’",
+			"htm",
+			"meta",
+			"vcard",
+			"page",
+			"input",
+			"site",
+			"site-info",
+			".postdate",
+			".post-date",
+			"site",
+			":hover",
+			" .",
+			".menu",
+			":hover",
+			".html()",
+			"$('#amount",
+			"$",
+			" $('#",
+			"Car",
+			"car",
+			"Car",
+			"car",
+			"Car",
+			"energyStar",
+			"<br />",
+			"taskList",
+			"phone-number",
+			"user",
+			"car_location",
+			"commuter",
+			"car_accessible",
+			"user",
+			"User",
+			"user",
+			"background",
+			"|",
+			"Green",
+			"Blue",
+			"Green",
+			"Blue",
+			"Red",
+			"fieldset",
+			"current",
+			"}",
+			"{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 112.0
+	},
+	"output.run_mocha":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"styles.c",
+				"css/styles.css"
+			],
+			[
+				"st",
+				"jqueryUI/development-bundle/demos/draggable/snap-to.html"
+			],
+			[
+				"",
+				"css/styles.css"
+			],
+			[
+				"index",
+				"/Users/milesdickinson/Websites/sublime/index.js"
+			],
+			[
+				"om",
+				"om is cool"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true
+}

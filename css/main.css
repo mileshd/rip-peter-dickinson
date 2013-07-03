@@ -1,0 +1,388 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+html { 
+  background: url(../img/backgrounds/01.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    font-family: 'Annie Use Your Telescope', arial, serif;
+}
+
+section {
+    margin: 20px auto;
+    width: 70%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Nixie One', Arial, serif;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+h2 {
+    margin-top: -25px;
+    font-size: 1.4em;
+}
+
+textarea {
+    width: 98%;
+    margin-bottom: 10px;
+    padding: 10px 0 0 5px;
+    border-radius:2px;
+    border: solid 1px #ccc;
+    background-color: #f5f5f5;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,0.2); 
+}
+
+input[type='text'] {
+    float: left;
+    border-radius:2px;
+    border: solid 1px #ccc;
+    padding:0.4em;
+    background-color: #f5f5f5;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,0.2); 
+}
+
+#main {
+    max-width: 800px;
+    min-width: 526.4px;
+    margin: 60px auto;
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIwLjk4Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjE5JSIgc3RvcC1jb2xvcj0iI2ZmZmVmYSIgc3RvcC1vcGFjaXR5PSIwLjciLz4KICAgIDxzdG9wIG9mZnNldD0iNjIlIiBzdG9wLWNvbG9yPSIjZmVmY2VkIiBzdG9wLW9wYWNpdHk9IjAuNSIvPgogICAgPHN0b3Agb2Zmc2V0PSI3MyUiIHN0b3AtY29sb3I9IiNmZWZjZWEiIHN0b3Atb3BhY2l0eT0iMC42NCIvPgogICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmViYzViIiBzdG9wLW9wYWNpdHk9IjEiLz4KICA8L3JhZGlhbEdyYWRpZW50PgogIDxyZWN0IHg9Ii01MCIgeT0iLTUwIiB3aWR0aD0iMTAxIiBoZWlnaHQ9IjEwMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%, rgba(255,255,255,0.98) 1%, rgba(255,254,250,0.7) 19%, rgba(254,252,237,0.5) 62%, rgba(254,252,234,0.64) 73%, rgba(254,188,91,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(255,255,255,1)), color-stop(1%,rgba(255,255,255,0.98)), color-stop(19%,rgba(255,254,250,0.7)), color-stop(62%,rgba(254,252,237,0.5)), color-stop(73%,rgba(254,252,234,0.64)), color-stop(100%,rgba(254,188,91,1))); /* Chrome,Safari4+ */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,0.98) 1%,rgba(255,254,250,0.7) 19%,rgba(254,252,237,0.5) 62%,rgba(254,252,234,0.64) 73%,rgba(254,188,91,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,0.98) 1%,rgba(255,254,250,0.7) 19%,rgba(254,252,237,0.5) 62%,rgba(254,252,234,0.64) 73%,rgba(254,188,91,1) 100%); /* Opera 12+ */
+background: -ms-radial-gradient(center, ellipse cover, rgba(255,255,255,1) 0%,rgba(255,255,255,0.98) 1%,rgba(255,254,250,0.7) 19%,rgba(254,252,237,0.5) 62%,rgba(254,252,234,0.64) 73%,rgba(254,188,91,1) 100%); /* IE10+ */
+background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%,rgba(255,255,255,0.98) 1%,rgba(255,254,250,0.7) 19%,rgba(254,252,237,0.5) 62%,rgba(254,252,234,0.64) 73%,rgba(254,188,91,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#febc5b',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+}
+
+#picture {
+}
+
+#post {
+    
+}
+
+#post input[type='button'] {
+    float: right;
+    background: white url(../img/formelements-select.png) no-repeat center left;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    border-radius:4px;
+    border: solid 1px #ccc;
+    padding:0.3em 0.5em; 
+
+}
+
+#message {
+    width: 80%;
+}
+
+#message article {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+
+a {
+    float: left;
+    display: block;
+    font-size: 4em;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #666;
+}
+
+a#next {
+    float: right;
+}
+
+#message h3 {
+    margin: 0 20px 0 0;
+    text-align: right;
+}
+
+#message h3 span {
+    margin: -5px -10px 0 0;
+}
+
+#message p {
+    margin: 5px 0 0 10px;
+}
+
+#donate {
+
+}
+
+#donate p {
+    float: left;
+    width: 75%;
+}
+
+#donate input[type='image'] {
+    float: right;
+    margin-top: 20px;
+}
+
+
+.image {
+
+    margin-top: 20px;
+
+    -webkit-box-shadow:
+        0px 0px 0px 2px rgba(0,0,0,0.6),
+        0px 0px 0px 14px #fff,
+        0px 0px 0px 18px rgba(0,0,0,0.2),
+        6px 6px 8px 17px #555;
+   
+     -moz-box-shadow:
+        0px 0px 0px 2px rgba(0,0,0,0.6),
+        0px 0px 0px 14px #fff,
+        0px 0px 0px 18px rgba(0,0,0,0.2),
+        6px 6px 8px 17px #555;
+   
+      box-shadow:
+        0px 0px 0px 2px rgba(0,0,0,0.6),
+        0px 0px 0px 14px #fff,
+        0px 0px 0px 18px rgba(0,0,0,0.2),
+        6px 6px 8px 17px #555;
+}
+
+.rounded-corners {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.shadow {
+    -webkit-box-shadow: 1px 1px 3px #292929;  
+    -moz-box-shadow: 1px 1px 3px #292929;  
+    box-shadow: 1px 1px 3px #292929; 
+}
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+@media print,
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}
