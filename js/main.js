@@ -53,6 +53,12 @@ $(document).ready(function() {
 		formatMessages(messages, id);	
 	});
 
+	$('h3').click(function() {
+		$('section.eul').hide();
+		console.log(this.id);
+		$('#' + this.id + ' + section').show();
+	});
+
 	function getMessages(data) {
 		var array = JSON.parse(data);
 		array.reverse();

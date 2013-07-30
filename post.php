@@ -1,9 +1,9 @@
 <?php
 
-	$HOST = "localhost";
-	$USERNAME = "root";
+	$HOST = "db477543917.db.1and1.com";
+	$USERNAME = "dbo477543917";
 	$PWORD = "MD#3311md";
-	$DB = "peter-dickinson";
+	$DB = "db477543917";
 	// Create connection
 	$con = mysqli_connect($HOST,$USERNAME,$PWORD,$DB);
 
